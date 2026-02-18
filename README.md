@@ -22,7 +22,7 @@ O projeto foi desenvolvido com foco em organização arquitetural, separação d
 ```
 HomeBudgetManager/
 │
-├── backend/      → ASP.NET Core Web API
+├── backend/      → C#
 ├── frontend/     → React + TypeScript
 ├── database/     → Script SQL
 └── README.md
