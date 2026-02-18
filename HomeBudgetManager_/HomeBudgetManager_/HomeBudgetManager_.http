@@ -1,0 +1,6 @@
+@HomeBudgetManager__HostAddress = http://localhost:5263
+
+GET {{HomeBudgetManager__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
